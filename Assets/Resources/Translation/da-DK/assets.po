@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-08-07 12:24:04+0200\n"
+"PO-Revision-Date: 2021-08-07 12:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Another simple string"
+msgstr "Endnu en simpel streng"
+
+msgid "Prefab Translated simple string"
+msgstr "Prefab oversat simple streng"
+
+msgctxt "Example|Context|"
+msgid "Translated context string"
+msgstr "Oversat streng med kontekst"
+
+#, csharp-format
+msgid "Translated {0} plural string"
+msgid_plural "Translated {0} plural strings"
+msgstr[0] "{0} oversat streng"
+msgstr[1] "{0} oversatte strenge"
+
+#, csharp-format
+msgctxt "Example|Context|"
+msgid "Translated {0} context plural string"
+msgid_plural "Translated {0} context plural strings"
+msgstr[0] "{0} oversat streng med kontekst"
+msgstr[1] "{0} oversatte strenge med kontekst"
+
+msgid "Translated simple string"
+msgstr "Oversat simpel streng"
